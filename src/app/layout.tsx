@@ -37,7 +37,7 @@ export default function RootLayout({
             <Toaster />
             <TopNav />
 
-            <div className="flex w-20 items-center gap-4 md:ml-auto md:gap-2 lg:gap-4">
+            <div className="flex w-56 items-center gap-4 md:ml-auto md:gap-2 lg:gap-4">
               <UserMenu />
             </div>
           </header>
